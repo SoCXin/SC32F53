@@ -1,0 +1,32 @@
+{
+    "type":"MCU",
+    "name":"SC32F53",
+    "title": "SILAN SC32F53 MCU",
+    "description":"SILAN Cortex-M0 MCU",
+    "Core": {
+        "num": 1,
+        "type":"Cortex-M0",
+        "Freq": 64,
+        "DMIPS": 250,
+        "CoreMark": 680
+    },
+    "manufacturer": {
+        "vendor":"SILAN",
+        "homepage":"http://www.silan.com.cn/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SoCXin/SC32F53.git"
+    },
+    "version":"1.0.0",
+    "series":["SC32F53"],
+    "package":["LQFP48","QFN48"],
+    "peripheral": ["ADC","XIP","USB","USART","SPI","IIC"],
+    "keywords": [
+        "dev-platform",
+        "Cortex-M0",
+        "SILAN",
+        "USB","PGA","ADC","I2C","USART","SPI",
+        "3.6V","1.8V"
+    ]
+}
