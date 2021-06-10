@@ -15,11 +15,7 @@
 
 * 128KB Flash + 16KB SRAM
 * 6 x UART
-* 2组模拟比较器
-* 6路NMOS Pre-driver输出
-* 栅驱动电路高侧最高浮动绝对电压达到60V
-* 低侧供电VREG13V和三个高侧供电VBS欠压保护
-* 驱动电路的短路脉冲电流能力达到±0.8A
+
 
 ### [资源收录](https://github.com/SoCXin)
 

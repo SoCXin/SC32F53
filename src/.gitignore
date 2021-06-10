@@ -6,14 +6,14 @@ config
 .settings
 mpu_*
 *launch
-*sc*
-*cm23*
-*cm3*
-*cm7*
-*cm1*
-*cm0*
-*.dep
-*.log
-*.ewt
-*.ewd
-*.sfr
+# *sc*
+# *cm23*
+# *cm3*
+# *cm7*
+# *cm1*
+# *cm0*
+# *.dep
+# *.log
+# *.ewt
+# *.ewd
+# *.sfr

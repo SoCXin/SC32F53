@@ -20,7 +20,7 @@
     },
     "version":"1.0.0",
     "series":["SC32F53"],
-    "package":["LQFP48","QFN48"],
+    "package":["LQFP44","LQFP48","LQFP64"],
     "peripheral": ["ADC","XIP","USB","USART","SPI","IIC"],
     "keywords": [
         "dev-platform",
